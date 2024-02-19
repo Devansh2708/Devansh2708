@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devansh2708
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning C,C++ and python
 - 😄 Pronouns: He/Him
 
 <!---
